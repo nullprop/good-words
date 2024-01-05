@@ -10,5 +10,6 @@ This list is intended as a tool for approximating the amount of good vibes in yo
 # Contributing
 
 Missing a language? Found a word that isn't good?  
-Pull requests and GitHub issues are always welcome.
+Pull requests and GitHub issues are always welcome.  
+Please ensure you keep the lists sorted, alphabetically or in whatever order is considered standard for the given language.
 
