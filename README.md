@@ -4,7 +4,7 @@ There are many public lists for bad (obscene) words used for hindering malicious
 - https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - https://github.com/coffee-and-fun/google-profanity-words
 
-However I couldn't find a decent list of positive words, so I made one.  
+However I couldn't find a decent list of positive words, so I started this one.  
 This list is intended as a tool for approximating the amount of good vibes in your data set.
 
 # Contributing
